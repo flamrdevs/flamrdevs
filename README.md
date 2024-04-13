@@ -1,3 +1,3 @@
-<p align="center" style="font-family: monospace">
+<div align="center" style="font-family: monospace">
   flamrdevs
-</p>
+</div>
