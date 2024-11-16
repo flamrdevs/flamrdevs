@@ -1,3 +1,1 @@
-<div align="center" style="font-family: monospace">
-  flamrdevs
-</div>
+<img src="./cover.png" alt="cover" />
